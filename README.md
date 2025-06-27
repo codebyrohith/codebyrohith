@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Rohith Sai Charan Eanugula,<br><br>An aspiring Java full-stack developer skilled in building scalable web applications using Java, Spring Boot, Angular, and REST APIs. Passionate about creating efficient, user-friendly solutions by integrating robust backend functionality with responsive front-end designs.<br><br>- 🔭 I’m Currently Pursuing Master of Science in Computer Science at University of Missouri Kansas City.<br>- 📚 I'm currently Improving DSA and React.<br>- ⚡ In my free time I watch movies, hangout with friends, listening music.</p>
+<p align="left">I'm Rohith Sai Charan Eanugula,<br><br>An aspiring Java full-stack developer skilled in building scalable web applications using Java, Spring Boot, Angular, and REST APIs. Passionate about creating efficient, user-friendly solutions by integrating robust backend functionality with responsive front-end designs.<br><br>- 🔭 I am a recent Master of Science in Computer Science graduate from the University of Missouri–Kansas City.<br>- 📚 I'm currently Improving DSA and React.<br>- ⚡ In my free time I watch movies, hangout with friends, listening music.</p>
 
 ###
 
